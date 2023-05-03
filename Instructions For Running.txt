@@ -1,0 +1,4 @@
+1. Download libraries shown at the top of each file
+2. Run "training_spacy.py" to train spacy model
+3. Run "BERT_training.py" to train BERT model
+4. Run "ForexSentimentAnalyzer.py" to proceed with sentiment analysis
